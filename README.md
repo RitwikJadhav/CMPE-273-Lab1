@@ -1,4 +1,4 @@
-# CMPE-273-Lab1 - Prototype of Grubhub
+# Prototype of Grubhub
 
 Grubhub is a food ordering and delivery application that connects with diners with local restaurants.
 
